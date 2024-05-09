@@ -1,0 +1,9 @@
+export { default as Admin } from "./Admin/Admin.jsx";
+export { default as AdminPage } from "./AdminPage/AdminPage.jsx";
+export { default as Home } from "./Home/Home.jsx";
+export { default as LoginTeacher } from "./LoginTeacher/LoginTeacher.jsx";
+export { default as StudLogin } from "./StudLogin/StudLogin.jsx";
+export { default as StudPage } from "./StudPage/StudPage.jsx";
+export { default as StudRegister } from "./StudRegister/StudRegister.jsx";
+export { default as TeacherPage } from "./TeacherPage/TeacherPage.jsx";
+export { default as Header } from "./Header/Header.jsx";
